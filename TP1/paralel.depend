@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1654887415 source:/home/cabrel/Desktop/c-projet/paralel/main.c
+	<stdio.h>
+	<stdlib.h>
+	<omp.h>
+
+1655226737 source:/home/tchoinbe/Bureau/TP1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<omp.h>
+
